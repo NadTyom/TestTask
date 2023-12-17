@@ -1,0 +1,27 @@
+.calc-container {
+  width: 100%;
+  height: auto;
+}
+
+.calc-container h1,
+h2 {
+  text-align: center;
+}
+
+.select-colors {
+  width: 50%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.color-item-info {
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.data-section {
+  width: 100%;
+  height: auto;
+}
